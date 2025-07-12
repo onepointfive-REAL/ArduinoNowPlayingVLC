@@ -36,3 +36,4 @@ https://github.com/user-attachments/assets/f05ed431-ec28-46c1-8680-e16b788341ad
 **Q:** The program just says `VLC Offline` and does nothing else
 
 **A:** Check if you configured the password properly on both VLC and the Python script.
+e
