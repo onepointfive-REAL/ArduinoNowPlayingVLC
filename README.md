@@ -2,8 +2,10 @@
 Shows currently playing songs/video names from VLC
 
 ⚠️ **Note.1:** This project requires Python to be installed and added to your system's PATH.
-⚠️ **Note.2:** This project requires Arduino IDE to be installed
-⚠️ **Note.3:** This project requires VLC to be installed (duh)
+
+⚠️ **Note.2:** This project requires Arduino IDE to be installed.
+
+⚠️ **Note.3:** This project requires VLC to be installed. (duh)
 
 How to run:
 1. Go to [Projects](https://github.com/onepointfive-REAL/ArduinoNowPlayingVLC/releases) page and download `main.py`, `ArduinoNowPlayingVLC.ino` and `installlib.bat`
@@ -36,4 +38,3 @@ https://github.com/user-attachments/assets/f05ed431-ec28-46c1-8680-e16b788341ad
 **Q:** The program just says `VLC Offline` and does nothing else
 
 **A:** Check if you configured the password properly on both VLC and the Python script.
-e
