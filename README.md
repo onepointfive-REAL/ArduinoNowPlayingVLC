@@ -5,6 +5,8 @@ Shows currently playing songs/video names from VLC
 
 [Help setting up VLC](./example1.mp4)
 
+https://github.com/user-attachments/assets/f05ed431-ec28-46c1-8680-e16b788341ad
+
 # Q&A
 
 **Q:** The device showed me a link. What do I do here?  
