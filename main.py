@@ -1,4 +1,4 @@
-# vlc_serial.py
+# main.py
 import time
 import requests
 import serial
