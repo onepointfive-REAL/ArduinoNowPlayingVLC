@@ -3,6 +3,8 @@ Shows currently playing songs/video names from VLC
 
 ⚠️ **Note:** This project requires Python to be installed and added to your system's PATH.
 
+[Help setting up VLC](./example1.mp4)
+
 # Q&A
 
 **Q:** The device showed me a link. What do I do here?  
