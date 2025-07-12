@@ -4,7 +4,7 @@ Shows currently playing songs/video names from VLC
 ⚠️ **Note:** This project requires Python to be installed and added to your system's PATH.
 
 How to run:
-1. Go to [Projects](https://github.com/onepointfive-REAL/ArduinoNowPlayingVLC/releases) page and download `main.py`, `ArduinoNowPlayingVLC.ino` and ``
+1. Go to [Projects](https://github.com/onepointfive-REAL/ArduinoNowPlayingVLC/releases) page and download `main.py`, `ArduinoNowPlayingVLC.ino` and `installlib.bat`
 
 https://github.com/user-attachments/assets/914c872c-e947-4ceb-8a8c-40619fda4ab5
 
