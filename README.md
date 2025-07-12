@@ -8,7 +8,7 @@ Shows currently playing songs/video names from VLC
 ⚠️ **Note.3:** This project requires VLC to be installed. (duh)
 
 How to run:
-1. Go to [Projects](https://github.com/onepointfive-REAL/ArduinoNowPlayingVLC/releases) page and download `main.py`, `ArduinoNowPlayingVLC.ino` and `installlib.bat`
+1. Go to [Projects](https://github.com/onepointfive-REAL/ArduinoNowPlayingVLC/releases) page and download `ArduinoNowPlayingVLC.zip`
 2. Open the Arduino IDE and open `ArduinoNowPlayingVLC.ino`. If it asks to make a directory, click OK
 3. Upload the sketch to your Arduino of choice
 4. If you haven't already connected a display to your Arduino, do so now.
