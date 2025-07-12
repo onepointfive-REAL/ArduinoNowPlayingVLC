@@ -5,6 +5,8 @@ Shows currently playing songs/video names from VLC
 
 [Help setting up VLC](./example1.mp4)
 
+https://github.com/user-attachments/assets/914c872c-e947-4ceb-8a8c-40619fda4ab5
+
 https://github.com/user-attachments/assets/f05ed431-ec28-46c1-8680-e16b788341ad
 
 # Q&A
